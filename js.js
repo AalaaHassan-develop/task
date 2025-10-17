@@ -40,3 +40,4 @@ function factorial(n) {
 }
 
 console.log(factorial(5));
+//task 4
